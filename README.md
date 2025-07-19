@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hola, soy DiegoJare 👋</h1>
 
-<!--
-**DiegoJare/DiegoJare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Aprendiendo y construyendo con enfoque en el desarrollo <strong>Backend</strong> usando <strong>Java + Spring Boot</strong> 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologías que uso
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoJare&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJare&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
+</p>
+
+---
+
+<p align="center">
+  🚧 Siempre aprendiendo, paso a paso...
+</p>
