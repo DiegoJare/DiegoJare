@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy DiegoJare 👋</h1>
+<h1 align="center">Hola, soy Diego Jare 👋</h1>
 
 <p align="center">
   Aprendiendo y construyendo con enfoque en el desarrollo <strong>Backend</strong> usando <strong>Java + Spring Boot</strong> 🚀
@@ -22,12 +22,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoJare&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJare&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
-</p>
 
 ---
 
