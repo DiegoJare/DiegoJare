@@ -19,7 +19,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoJare&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoJare&show_icons=true&theme=tokyonight&hide_border=true&custom_title=DiegoJare%27s+GitHub+Stats" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoJare&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </div>
 
